@@ -16,6 +16,15 @@
     <a href="mailto:zyj20021114@outlook.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white" />
     </a>
+      <a href="https://yjggzhk.itch.io/space-fortress">
+      <img src="https://img.shields.io/badge/itch.io-000000?style=for-the-badge&logo=itch.io&logoColor=white" />
+    </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/WeChat-yjggzhkwork-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+</a>
+    
+
+
   </p>
   
 
@@ -78,7 +87,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YJGGZHK&theme=radical" alt="GitHub Streak" width="100%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3>🌐 Personal Blog</h3>
   <a href="https://yjggzhk.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-YJGGZHK-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Personal Blog"/>
@@ -86,7 +95,8 @@
   <p style="margin-top: 10px; font-style: italic; color: #666;">
     Welcome to my blog for more technical sharing and personal insights
   </p>
-</div>
+</div> -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=Keep%20Exploring&fontSize=90&fontAlign=50&fontAlignY=70&desc=YJGGZHK&descSize=30&descAlign=50&descAlignY=40&animation=twinkling" />
