@@ -80,6 +80,15 @@
     </p>
   </div>
 </div>
+<div align="center">
+  <h3>🌐 Personal Blog</h3>
+  <a href="https://portfolio-opal-iota-30.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-YJGGZHK-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Personal Blog"/>
+  </a>
+  <p style="margin-top: 10px; font-style: italic; color: #666;">
+    Welcome to my blog for more technical sharing and personal insights
+  </p>
+</div>
 
 <h3>📊 GitHub Activities</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
@@ -87,15 +96,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YJGGZHK&theme=radical" alt="GitHub Streak" width="100%" />
 </div>
 
-<!-- <div align="center">
-  <h3>🌐 Personal Blog</h3>
-  <a href="https://yjggzhk.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-YJGGZHK-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Personal Blog"/>
-  </a>
-  <p style="margin-top: 10px; font-style: italic; color: #666;">
-    Welcome to my blog for more technical sharing and personal insights
-  </p>
-</div> -->
+
 
 
 <p align="center">
